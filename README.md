@@ -1,2 +1,3 @@
-# Csr_UW_PL_A
- Programming Lauguages Part A by Dan Grossman in Coursera
+# PL_Washington
+ Programming Lauguages Part A 
+taught by Dan Grossman in _Coursera_
